@@ -1,0 +1,46 @@
+.banner{
+    background-color: rgb(85, 63, 16);
+    color: white;
+    padding: 20px;
+    text-align: center;
+}
+
+.left{
+    background-color: orange;
+    text-align: center;
+}
+
+.top{
+    background-color: rgb(187, 141, 111);
+    text-align: center;
+    width: 100%;
+}
+.content1{
+    text-align: center;
+    padding: 20px;
+    display: block;
+}
+
+.cont{
+    padding: 10%;
+}
+
+.photoc{
+    background-color: darkcyan;
+    text-align: center;
+}
+
+.photom{
+    background-color: rgb(207, 125, 143);
+    text-align: center;
+}
+
+.footer{
+    background-color: rgb(85, 63, 16);
+    color: white;
+    text-align: center;
+}
+
+h2{
+    width: 100%;
+}
